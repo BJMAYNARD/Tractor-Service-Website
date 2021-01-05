@@ -4,13 +4,13 @@
 */
 
 font-face {
-    font-family: "VT323";
-    src: url("assets/fonts/VT323/VT323-Regular.ttf");
+    font-family: 'PT Sans', sans-serif;
+
 }
 
 
 /*
-    This is the Text Formatiing.
+    This is the Body Formating.
 */
 
 body {
@@ -96,7 +96,7 @@ header h1 {
 #footerTarget
 font-face {
     font-family: "VT323";
-    src: url("assets/fonts/VT323/VT323-Regular.ttf");
+    src: url("assets/fonts/VT323/PTSans-Regular.ttf");
 }
 
 footer {
